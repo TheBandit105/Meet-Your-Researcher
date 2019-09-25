@@ -39,7 +39,7 @@ Instructions
     9. What does it involve, on a day-to-day basis? 
     10. What are the highs and lows of research? 
     11. What is the researcher trying to achieve, and why? 
-    12. How will they know when they is successful? 
+    12. How will they know when they are successful? 
     13. What excites them about their subject area? 
 7. Weeks Three and Four: 
  8. You will need to work together and perhaps individually on your communications artefact. 
