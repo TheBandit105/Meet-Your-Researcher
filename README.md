@@ -17,7 +17,7 @@ Instructions
   2. Introduce yourselves to each other. Make sure you learn one another’s names and take each other’s contact details. 
   3. As a team, create a Project on [CSGitLab](https://csgitlab.reading.ac.uk) and make sure you are all added as developers.
 2. Together, read this ***Meet Your Researcher*** assignment brief carefully. 
- 3. Note that together you will need to produce a single *communications artefact*, such as a PowerPoint presentation, a short video, a leaflet or a detailed poster, which will introduce the staff member and their academic work to a non-specialist audience. 
+ 3. Note that together you will need to produce a single *communications artefact*, such as a leaflet, written on CSGitLab, or alternatively a PowerPoint presentation, a short video or a detailed poster, which will introduce the staff member and their academic work to a non-specialist audience.  You must have sufficient detail on the content of your artefact available on CSGitLab for the assessment.
  4. Your challenge is to work effectively together as a group to complete this assignment by the due date (***25th October***). 
 3. During your first meeting, plan a sequence of meetings together, to ensure that you have sufficient time to complete the task. 
  4. Agree on when and where you will meet.  You are advised to practice working "remotely" by using the Issue management in CSGitLab.  
