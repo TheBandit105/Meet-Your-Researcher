@@ -1,4 +1,4 @@
-Key information for students 
+Meet Your Researcher - Key information for students 
 =======
 
 *Group Task*
@@ -13,8 +13,8 @@ The academic will see what you have produced, and give you feedback on it.
 Instructions 
 ------
 
-1. First group meeting: Introduce yourselves to each other. Make sure you learn one another’s names and take each other’s contact details. 
-2. Together, read your department’s full Meet Your Researcher assignment brief carefully. Note that together you will need to produce a single communications artefact, such as a PowerPoint presentation, a short video, a leaﬂ et or a detailed poster, which will introduce the staﬀ  member and her or his academic work to a non-specialist audience. Your challenge is to work eﬀ ectively together as a group to complete this assignment by the due date. 
+1. First group meeting (Welcome Week, team building session): Introduce yourselves to each other. Make sure you learn one another’s names and take each other’s contact details. As a team, create a Project on CSGitLab and make sure you are all added as developers.
+2. Together, read this /Meet Your Researcher/ assignment brief carefully. Note that together you will need to produce a single communications artefact, such as a PowerPoint presentation, a short video, a leaﬂ et or a detailed poster, which will introduce the staﬀ  member and her or his academic work to a non-specialist audience. Your challenge is to work eﬀ ectively together as a group to complete this assignment by the due date. 
 3. During your first meeting, plan a sequence of meetings together, to ensure that you have sufficient time to complete the task. Agree on when and where you will meet. 
 4. Week One: undertake as much research as you can - online, through the UCL library and through any other means suggested by your department - into the expertise of your researcher. What is her/his area of specialist interest? Read some of what the staﬀ  member has written: journal articles, books and online publications. Investigate, too, what others have written about the work of your researcher. Make summary notes on your findings. 
 5. Second meeting. Discuss your findings with your fellow group members. Begin to agree on an outline or narrative for your communications artefact. Begin to consider which ideas and material you should include, and what type of artefact it should be. Then discuss and agree upon questions you will put to the researcher when you meet her/him in Week Two (see 6 below). Decide in advance who will ask which questions, to make sure that everyone is involved, and agree upon a strategy for noting or recording in some way your researcher’s answers. If you choose to record the meeting, you should ask the researcher’s permission. 
