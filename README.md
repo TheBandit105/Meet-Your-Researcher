@@ -35,11 +35,11 @@ Instructions
 6. Week Two: 
  7. You will have to arrange a time, date and room for meeting your researcher, obviously with their agreement. 
  8. Make sure that you are fully prepared to ask her/him your series of demanding questions, and to take notes so that this information can be discussed, selected and used later in your group’s communications artefact. Your objective for the meeting is to find out what it’s really like to be a researcher in your subject: 
-   9. What does it involve, on a day-to-day basis? 
-   10. What are the highs and lows of research? 
-   11. What is the researcher trying to achieve, and why? 
-   12. How will they know when they is successful? 
-   13. What excites them about their subject area? 
+    9. What does it involve, on a day-to-day basis? 
+    10. What are the highs and lows of research? 
+    11. What is the researcher trying to achieve, and why? 
+    12. How will they know when they is successful? 
+    13. What excites them about their subject area? 
 7. Weeks Three and Four: 
  8. You will need to work together and perhaps individually on your communications artefact. 
  9. In the first follow-up meeting of your peer group, agree on your strategy for completing a draft version. 
