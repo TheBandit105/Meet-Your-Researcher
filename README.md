@@ -54,4 +54,7 @@ Notes
 * You might like to look at the source of this document to see how formatting is achieved.  CSGitLab uses Markdown, and there is a simple cheat sheet for [basic Markdown](https://www.markdownguide.org/basic-syntax/).
 * It is perfectly acceptable (indeed, encouraged) to produce a formatted document on CSGitLab as your communications artefact.  
 * Note that some researchers are very busy, and some are part time.  You may need to be flexible in how you arrange to have a conversation with them about your findings.
+* Soem screenshots to help you [navigate](Navigating_CSGitLab.md)
+
+
 This exercise has been adapted from one developed at UCL.
