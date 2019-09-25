@@ -15,7 +15,7 @@ Instructions
 
 1. First group meeting (Welcome Week, team building session): 
   2. Introduce yourselves to each other. Make sure you learn one another’s names and take each other’s contact details. 
-  3. As a team, create a Project on CSGitLab and make sure you are all added as developers.
+  3. As a team, create a Project on [CSGitLab](https://csgitlab.reading.ac.uk) and make sure you are all added as developers.
 2. Together, read this ***Meet Your Researcher*** assignment brief carefully. 
  3. Note that together you will need to produce a single *communications artefact*, such as a PowerPoint presentation, a short video, a leaflet or a detailed poster, which will introduce the staff member and their academic work to a non-specialist audience. 
  4. Your challenge is to work effectively together as a group to complete this assignment by the due date (***25th October***). 
