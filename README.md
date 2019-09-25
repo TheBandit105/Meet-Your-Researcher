@@ -2,6 +2,7 @@ Meet Your Researcher - Key information for students
 =======
 
 *Group Task*
+-----
 
 Summary 
 ------
