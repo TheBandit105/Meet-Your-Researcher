@@ -46,4 +46,11 @@ Instructions
  10. Arrange a final meeting to review it before submission, and ensure that it is submitted on time, clearly labelled with the names of your group members. 
  11. The Project you have created and worked on for this exercise on CSGitLab will be assessed, and feedback on it, and on the communications visible on CSGitLab, so you can evaluate your performance as a team and develop ways to improve.  The feedback will be given on CSGitLab by the 15th Novemebr - hopefully sooner! 
 
+
+Notes
+----
+
+* You might like to look at the source of this document to see how formatting is achieved.  CSGitLab uses Markdown, and there is a simple cheat sheet for [basic Markdown](https://www.markdownguide.org/basic-syntax/).
+* It is perfectly acceptable (indeed, encouraged) to produce a formatted document on CSGitLab as your communications artefact.  
+* Note that some researchers are very busy, and some are part time.  You may need to be flexible in how you arrange to have a conversation with them about your findings.
 This exercise has been adapted from one developed at UCL.
