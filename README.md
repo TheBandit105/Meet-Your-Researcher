@@ -56,7 +56,7 @@ Notes
 * Note that some researchers are very busy, and some are part time.  You may need to be flexible in how you arrange to have a conversation with them about your findings.
 * Some screenshots to help you [navigate](Navigating_CSGitLab.md)
 * ***Do Not Rely*** on single sources of information - e.g. Google Scholar 'scrapes' the web to build a list of papers, but they might not always get the authorship correct...
-* Please feel free to raise an 'Issue' on [this project](https://csgitlab.reading.ac.uk/patparslow/Meet-Your-Researcher) if you spot any spelling or grammar mistakes, have any siggestions on how to improve the activity etc.
+* Please feel free to raise an 'Issue' on [this project](https://csgitlab.reading.ac.uk/patparslow/Meet-Your-Researcher) if you spot any spelling or grammar mistakes, have any suggestions on how to improve the activity etc.
 
 
 This exercise has been adapted from one developed at UCL.
